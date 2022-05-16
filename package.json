@@ -2,10 +2,10 @@
   "name": "script",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "16.11.26",
     "prisma": "3.12.0",
     "ts-node": "10.7.0",
-    "typescript": "4.6.3",
-    "@types/node": "16.11.26"
+    "typescript": "4.6.3"
   },
   "scripts": {
     "dev": "ts-node ./script.ts"
@@ -15,5 +15,6 @@
   },
   "engines": {
     "node": ">=12.2.0"
-  }
+  },
+  "packageManager": "yarn@3.2.1"
 }
