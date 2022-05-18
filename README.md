@@ -1,5 +1,7 @@
 ## Prisma strict typescript error reproduction
 
+Launch repro on [gitpod](https://gitpod.io/#https://github.com/dac09/prisma-strict-ts-repro)
+
 ### Steps:
 1. `yarn install`
 2. `yarn prisma generate`
